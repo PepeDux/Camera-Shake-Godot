@@ -2,8 +2,6 @@
 
 ![logo_large_color_dark](https://github.com/PepeDux/CameraShakeGodot/assets/108129196/95af0dd8-c6d7-47ce-934c-eb34fd2e9122)
 
-![Static Badge](https://img.shields.io/badge/C%23-purple) ![Static Badge](https://img.shields.io/badge/Godot-white) ![Static Badge](https://img.shields.io/badge/Guide-green)
-
 I would like to contribute to the development of the Godot Engine developer community and that's why I created this guide, I hope it will help you
 
 P.S Criticism and comments are welcome 😄
